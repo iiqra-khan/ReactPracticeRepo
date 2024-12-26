@@ -1,6 +1,6 @@
 function Test(){
     return(
-        <h1>this is a test function</h1>
+        <h1>hi</h1>
     )
 }
 
