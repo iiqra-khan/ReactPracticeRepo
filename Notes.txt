@@ -1,0 +1,2 @@
+Virtual DOM - not used now but interview perspective.
+diffing of lists is performed using keys. keys should be stable, predictable, and unique
