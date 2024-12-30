@@ -40,7 +40,7 @@ function App() {
     <>
     <div className="w-full max-w-md mx-auto rounded-lg px-3 my-8 py-3 text-violet-400 bg-gray-600 "> 
     <h1 className="text-3xl text-center my-2">Password Generator</h1>
-      <div className="flex rounded-xl overflow-hidden mb-4 shadow-lg">
+      <div className="flex rounded-xl overflow-hidden mb-4 shadow-lg mx-auto w-3/4 hover:w-full duration-300">
         {/* mx-auto */}
         <input type="text"
         value={password}
